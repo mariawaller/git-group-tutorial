@@ -2,6 +2,8 @@ This is a representation of an unfinished function a group member is working on.
 This is a new change from Nick Althoff
 This is a new change from Maria Waller
 This is a new change from Benjamin Campbell
-This is a new change from Diego Bolanos
+main
+main
 
 This is the change made to this branch while working on rb-test (Nick Althoff)
+This is the change made to this branch while working on rb-test (Maria Waller)
